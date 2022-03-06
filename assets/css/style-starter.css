@@ -12300,7 +12300,7 @@ button.search-btn:hover {
   outline: none;
   border: none;
   background-size: 200% auto;
-  background-image: linear-gradient(90deg, #ffc845 0%, #f85a40 51%, #ffc845 100%);
+  background-image: linear-gradient(90deg, #61470a 0%, #4079f8 51%, #61470a 100%);
   transition: all 1.8s ease-in-out;
 }
 
